@@ -6,11 +6,11 @@ import { Quote } from '../quote'
   templateUrl: './quote-details.component.html',
   styleUrls: ['./quote-details.component.css']
 })
-export class QuoteDetailsComponent implements OnInit {
+export class quotesDetailsComponent implements OnInit {
 
   votes: number;
 
- @Input () quote:Quote;
+ @Input () quote:quotes;
  vote = 0;
 
  constructor() {
@@ -27,7 +27,7 @@ export class QuoteDetailsComponent implements OnInit {
    return false;
  }
 
-  
+
   ngOnInit() {
   }
 
