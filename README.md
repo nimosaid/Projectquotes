@@ -1,13 +1,14 @@
 # ProjectQuotes
 
-#Projectquotes Web application.
+Projectquotes Web application.
 
 Quotes is a web application that gathers inforomation about different quotes from various individuals past and present. What was said ,who said them and who posed the quote plus the time that has passed since the post was made published.Quotes made past and present. 16/03/2018
 
 By Nimo Said
 Moringa School
 
-#Description
+##Description
+
 Projectquotes is a web application that gathers quotes from various individuals past and present.
 
 Visitors to the site are encourage to post their favourite quotes by historical and/or present figures. This is then made visible to others who can either upvote or downvote and the quote with the highest number of vote gets highlighted.
