@@ -3,8 +3,8 @@ import { Projectquotes } from './quote'
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  templateUrl: '../app/app.component.html',
+  styleUrls: ['../app/app.component.css']
 })
 export class AppComponent {
   Projectquotes = [
